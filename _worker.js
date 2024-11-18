@@ -4092,7 +4092,7 @@ var SignJWT = class extends ProduceJWT {
 
 // src/worker.js
 // To generate your own UUID: https://www.uuidgenerator.net/
-var userID = '40168c82-d975-4cdb-867b-59d5e8f42f26';
+var userID = 'ff48d680-490f-42f2-8c07-6bf738862bcc';
 var trojanPassword = `REvil`;//Your preferred password for trojan configurations.
 
 //Find proxyIP : https://github.com/NiREvil/vless/blob/main/sub/ProxyIP.md
